@@ -1,0 +1,17 @@
+z_new_o/
+z_new_w/
+z_osabin/
+z_tools/
+GPL.txt
+LGPL.txt
+license.txt
+*.bin
+*.lst
+*.gas
+*.obj
+*.img
+**/bootpack.nas
+**/bootpack.map
+**/bootpack.bim
+**/bootpack.hrb
+**/haribote.sys
